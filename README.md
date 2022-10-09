@@ -1,14 +1,4 @@
-### Hi there!!, Im a about to graduate Computer Engineer, i studied on Universidad Autónoma de Baja California 👋
-Im currently taking some courses about web development, and recently ended a web development formatiom from Oracle and Alura Latam
-
-Here are some of my most used programming languajes and technologies:
- >HTML and CSS
- >Java
- >JavaScrip
- >Python
- >C, C++, C#
- >.NET
- >Currently learning Angular, then React
+### Hi there!!
  
  
 

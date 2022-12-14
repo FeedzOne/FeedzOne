@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erick Miguel Paredes Ortega</h1>
 <h3 align="center">Hi there!!, Im a about to graduate Computer Engineer, i studied on Universidad Autónoma de Baja California 👋 Im currently taking some courses about web development, and recently ended a web development formatiom from Oracle and Alura Latam.</h3>
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 I’m currently working as **Freelance**
 
-- 🌱 I’m currently learning **Angular, Vue, then i'll learn React and DJango**
+- 🌱 I’m currently learning **Django and TailwindCSS**
 
-- ⚡ Fun fact **I love play videogames, learn about cybersecurity, and... I use Arch BTW**
+- ⚡ Fun facts **I love play videogames, learn about cybersecurity, stream some stuff on Twitch and move things on Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

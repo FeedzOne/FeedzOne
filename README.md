@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working as a **Freelancer**
-- 👨‍🏫 Collaborating with the **IT Infrastructure Department** at my university
+- 👨‍🏫 Collaborating in a **IT Infrastructure Department**
 - 🌱 Learning and building with **Django, Flask, FastAPI, React, and TailwindCSS**
 - 🎮 I love **playing video games**, exploring **cybersecurity**, **streaming on Twitch**, and tinkering with **Linux systems**
 

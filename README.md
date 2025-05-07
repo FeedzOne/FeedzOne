@@ -1,11 +1,26 @@
-<h1 align="center">Hi 👋, I'm Erick Miguel Paredes Ortega</h1>
-<h3 align="center">Hi there!!, Im a about to graduate Computer Engineer, i studied on Universidad Autónoma de Baja California 👋 Im currently taking some courses about web development, and recently ended a web development formatiom from Oracle and Alura Latam.</h3>
+<h1 align="center">Hi 👋, I'm Erick Miguel Paredes Ortega (aka FeedzOne / z4ydron)</h1>
+<h3 align="center">
+    👨‍💻 Computer Engineer | Class of Q4 2023<br>
+    🎓 Graduated from Universidad Autónoma de Baja California<br>
+    📚 Currently expanding my skills in web development through courses and certifications
+</h3>
 
-- 🔭 I’m currently working as **Freelance**
+---
 
-- 🌱 I’m currently learning **Django and TailwindCSS**
+### 🚀 About Me
 
-- ⚡ Fun facts **I love play videogames, learn about cybersecurity, stream some stuff on Twitch and move things on Linux**
+- 🔭 Currently working as a **Freelancer**
+- 👨‍🏫 Collaborating with the **IT Infrastructure Department** at my university
+- 🌱 Learning and building with **Django, Flask, FastAPI, React, and TailwindCSS**
+- 🎮 I love **playing video games**, exploring **cybersecurity**, **streaming on Twitch**, and tinkering with **Linux systems**
+
+---
+
+### 📚 Recent Learning
+
+I recently completed a **Web Development Formation Program** by **Oracle and Alura Latam**, and I’m continuously learning more about full-stack development and backend technologies.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
